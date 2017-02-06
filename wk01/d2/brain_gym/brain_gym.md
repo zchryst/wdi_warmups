@@ -15,6 +15,7 @@ You stand at a fork in the road. Next to each of the two forks, there stands a g
 >**What road will the other guard say leads to paradise?**  
 >Ask lying guard - he will say the one that leads to Death  
 >Ask thruthful guard - he will say the one that leads to Death  
+
 ---
 
 ## Question Two
@@ -25,6 +26,7 @@ Who is in the painting?
 :neckbeard:
 
 >**It's a painting of himself**
+
 ---
 
 ## Question Three
@@ -33,6 +35,7 @@ Name four days of the week that start with the letter "t"?
 :hamburger: :cocktail: :beer:
 
 >**Tuesday, Thursday, The Weekend**
+
 ---
 
 ## Question Four
@@ -47,6 +50,7 @@ A man has to get a fox, a chicken, and a sack of corn across a river. He has a r
 >next take the corn  
 >row back with and empty boat  
 >finally take the chicken**
+
 ---
 
 ## Question Five
@@ -56,6 +60,7 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 What is highest number of figs you can get to Capertown?
 
 >**3000, circumnavigate the globe**
+
 ---
 
 ## Question Six
@@ -63,6 +68,7 @@ What is highest number of figs you can get to Capertown?
 Question: A surgeon named Hal and a bus driver named Al are both in love with the same woman named Paige. Al needs to go for a long trip of 10 days. Before he left he gave Paige 10 apples. Why?
 
 >**An apple a day keeps the doctor away**
+
 ---
 
 ## Question Seven
@@ -72,4 +78,5 @@ Question: A young woman is attending her mother's funeral. While there, she meet
 Why does she kill her sister?
 
 >**In the hopes that the man will be at her sister's funeral.**
+
 ---
