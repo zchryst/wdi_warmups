@@ -1,0 +1,11 @@
+loop to create [' ', '#', ' ', ...] - 8 items long
+and ['#', ' ', '#', ...] - 8 items long
+
+turn all to strings
+-join method
+
+loop to create array of strings
+- 16 items
+- alternate between new-line symbol and row strings
+
+loop through and join with new line indicator
