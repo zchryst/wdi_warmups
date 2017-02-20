@@ -1,0 +1,15 @@
+
+fn take user input of array size
+-- return array size
+
+fn create array of set width
+-- return one row
+
+fn create array of arrays
+-- return blank map
+
+fn find random position of 'x'
+-- retrun row and column coords
+
+fn insert x in array of arrays
+-- return map with x included

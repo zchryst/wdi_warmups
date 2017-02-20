@@ -1,0 +1,11 @@
+input word/sentence
+
+split up into individual letters ==> array
+
+remove spaces, and punctuation, lowercase everything
+
+reverse order ==> new array
+
+make string of both arrays
+
+check ===
